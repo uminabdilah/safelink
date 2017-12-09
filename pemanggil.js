@@ -26,7 +26,7 @@ if(x=="1"){xxx="/2017/12/numpang-lewat.html"}
 if(x=="2"){xxx="/2017/12/numpang-lewat-lagi.html"}
 if(x=="3"){xxx="/2017/12/permisi.html"}
 if(x=="4"){xxx="/2017/12/permisi-mpo-abang.html"}
-if(x=="5"){xxx="/2017/12/permisi-ya-kawan.html"}a_to_ve[i].href="https://convert-safelink.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2017/12/permisi-ya-kawan.html"}a_to_ve[i].href="https://safelink-umin.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
